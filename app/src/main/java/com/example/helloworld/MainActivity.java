@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
         //User can tap on a button to change the text color of the label
         findViewById(R.id.button).setOnClickListener(new View.OnClickListener() {
             @Override
