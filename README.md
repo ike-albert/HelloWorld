@@ -22,4 +22,3 @@
    - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.  
    - [ ] c. If the text field is empty, update label with default text string.  
 
-![image](https://user-images.githubusercontent.com/62034381/181088474-2c973f20-111d-4b22-b3a3-1f0097e01776.png)
